@@ -1,12 +1,12 @@
 {
-    "name": "anchu/ftp",
-    "description": "A simple Laravel 4 ftp service provider",
+    "name": "csoseman/laravel-ftp",
+    "description": "A fork of anchu/ftp written by Harish Anchu (harishanchu@gmail.com) who get's all credit. Just needed to add some functionality for an older version.",
     "keywords": ["ftp","laravel","l4","service provider"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Harish Anchu",
-            "email": "harishanchu@gmail.com"
+            "name": "Christian Soseman",
+            "email": "christian.soseman@gmail.com"
         }
     ],
     "require": {
